@@ -1,3 +1,8 @@
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", () => {
 
 fetch(`http://localhost:3000/quotes?_embed=likes`)
